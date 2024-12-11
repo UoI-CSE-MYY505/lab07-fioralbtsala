@@ -24,7 +24,7 @@ main:
     li     s0, 32     # arraySize
     li     s1, 0      # option
     li     s2, 1      # stepSize
-    li     s3, 1      # repCount
+            li     s3, 1      # repCount
 # Don't modify below the line
 # -------------------------------------------------------------------
 
